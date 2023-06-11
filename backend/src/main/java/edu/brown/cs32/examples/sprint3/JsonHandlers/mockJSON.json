@@ -1,0 +1,13 @@
+{
+  "Name": "Zeeshan",
+  "University": "Brown University",
+  "Major": "Computer Science",
+  "Class": "CS32",
+  "Favorite Hobby": "Hooping",
+  "Favorite Food": "Steak",
+  "Favorite Quote": "risk it all",
+  "Age": 20,
+  "Numbers": [-77, 38],
+  "Bool": [false, true],
+  "2d": [["happy", "sad"]]
+}

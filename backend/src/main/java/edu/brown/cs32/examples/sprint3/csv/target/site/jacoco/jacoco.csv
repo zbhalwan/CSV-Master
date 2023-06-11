@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+s0,edu.brown.cs.student.main,Main,81,0,4,0,20,0,5,0,3,0
+s0,Parsing,CSVParser,7,90,0,2,3,29,1,8,1,7
+s0,Parsing,CountElements,0,7,0,0,0,2,0,2,0,2
+s0,Parsing,CreateList,0,5,0,0,0,2,0,2,0,2
+s0,Parsing,CreateStrings,0,26,0,2,0,6,0,3,0,2
+s0,Searching,Search,37,119,7,19,9,32,5,10,0,2
+s0,Searching,Main,88,0,4,0,21,0,5,0,3,0
+s0,Exceptions,FactoryFailureException,10,0,0,0,3,0,1,0,1,0

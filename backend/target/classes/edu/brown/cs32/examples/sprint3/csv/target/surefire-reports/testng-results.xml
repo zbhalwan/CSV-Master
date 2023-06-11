@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-05T16:48:30 EST" name="Surefire suite" finished-at="2023-02-05T16:48:30 EST" duration-ms="249">
+    <groups>
+    </groups>
+    <test started-at="2023-02-05T16:48:30 EST" name="Surefire test" finished-at="2023-02-05T16:48:30 EST" duration-ms="249">
+      <class name="edu.brown.cs.student.TestParseAndCreatorFromRow">
+        <test-method signature="testCreatorFromRow2()[pri:0, instance:edu.brown.cs.student.TestParseAndCreatorFromRow@673be18f]" started-at="2023-02-05T16:48:30 EST" name="testCreatorFromRow2" finished-at="2023-02-05T16:48:30 EST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreatorFromRow2 -->
+        <test-method signature="testGetRowAndCreatorFromRow()[pri:0, instance:edu.brown.cs.student.TestParseAndCreatorFromRow@673be18f]" started-at="2023-02-05T16:48:30 EST" name="testGetRowAndCreatorFromRow" finished-at="2023-02-05T16:48:30 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRowAndCreatorFromRow -->
+        <test-method signature="testParseStringReader()[pri:0, instance:edu.brown.cs.student.TestParseAndCreatorFromRow@673be18f]" started-at="2023-02-05T16:48:30 EST" name="testParseStringReader" finished-at="2023-02-05T16:48:30 EST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParseStringReader -->
+      </class> <!-- edu.brown.cs.student.TestParseAndCreatorFromRow -->
+      <class name="edu.brown.cs.student.TestSearchAndParse">
+        <test-method signature="testBasicSearch()[pri:0, instance:edu.brown.cs.student.TestSearchAndParse@764faa6]" started-at="2023-02-05T16:48:30 EST" name="testBasicSearch" finished-at="2023-02-05T16:48:30 EST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicSearch -->
+        <test-method signature="testBasicSearch2()[pri:0, instance:edu.brown.cs.student.TestSearchAndParse@764faa6]" started-at="2023-02-05T16:48:30 EST" name="testBasicSearch2" finished-at="2023-02-05T16:48:30 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicSearch2 -->
+        <test-method signature="testBasicSearchError()[pri:0, instance:edu.brown.cs.student.TestSearchAndParse@764faa6]" started-at="2023-02-05T16:48:30 EST" name="testBasicSearchError" finished-at="2023-02-05T16:48:30 EST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicSearchError -->
+        <test-method signature="testDuplicateInputs()[pri:0, instance:edu.brown.cs.student.TestSearchAndParse@764faa6]" started-at="2023-02-05T16:48:30 EST" name="testDuplicateInputs" finished-at="2023-02-05T16:48:30 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDuplicateInputs -->
+        <test-method signature="testSearchWithNoColID()[pri:0, instance:edu.brown.cs.student.TestSearchAndParse@764faa6]" started-at="2023-02-05T16:48:30 EST" name="testSearchWithNoColID" finished-at="2023-02-05T16:48:30 EST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchWithNoColID -->
+        <test-method signature="testWrongCol()[pri:0, instance:edu.brown.cs.student.TestSearchAndParse@764faa6]" started-at="2023-02-05T16:48:30 EST" name="testWrongCol" finished-at="2023-02-05T16:48:30 EST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWrongCol -->
+      </class> <!-- edu.brown.cs.student.TestSearchAndParse -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
